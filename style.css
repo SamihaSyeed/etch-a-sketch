@@ -10,3 +10,19 @@ h2{
 .sketch{
     background-color: black   
 }
+.container{
+    margin:auto
+}
+#button{
+    display: flex;
+    justify-content: center;
+    grid-gap:10px;
+    margin:10px 0
+
+}
+button{
+    background-color: black;
+    color:white;
+    border:solid 1px black;
+    border-radius:5px;
+}
